@@ -1,0 +1,7 @@
+https://github.com/Dinal-Senadheera/DL_Lab2.git
+
+1. What happens when the number of hidden nodes increase? 
+*   When the number of hidden nodes increase the accuracy also increases and then decreases after a certain point
+2. Can you explain the pattern of the accuracy when the hidden nodes increase?
+*   As the number of hidden units increases the it gives the NN the capacity to learn complex patterns quickly but then accuracy decreases probably due to overfitting
+*   It also provides better feature extraction if the number of hidden nodes are more
